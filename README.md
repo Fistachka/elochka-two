@@ -1,5 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
+
 # В лесу родилась елочка
 [«В лесу роди́лась ёлочка»](https://ru.wikipedia.org/wiki/%D0%92_%D0%BB%D0%B5%D1%81%D1%83_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0%D1%81%D1%8C_%D1%91%D0%BB%D0%BE%D1%87%D0%BA%D0%B0) (1906—1909) — одна из самых популярных русских детских рождественских песен, ставшая в СССР новогодней. Слова написаны [Раисой Адамовной Кудашевой](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D0%B0,_%D0%A0%D0%B0%D0%B8%D1%81%D0%B0_%D0%90%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0), музыка — [Леонидом Карловичем Бекманом](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87). 
 
@@ -40,8 +41,12 @@ Hа праздник к нам пришла
 <iframe width="315" height="560" src="https://www.youtube.com/embed/BgJB5xBsfRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 ![pexels-landsmann-803094805-29875484](https://github.com/user-attachments/assets/c4e15cab-b785-486c-902f-376c6ccb9a71)
+
+Предыдущий урок: stolbitsa.com/fistachka/elochka
 <br><br>
+
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
 
 # The forest raised a Christmas tree
 
@@ -81,4 +86,7 @@ Video by https://bigpapamedia.ru/
 <iframe width="315" height="560" src="https://www.youtube.com/embed/YCLLH9vrCOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 ![pexels-landsmann-803094805-29875484](https://github.com/user-attachments/assets/c4e15cab-b785-486c-902f-376c6ccb9a71)
-<br><br>
+
+
+Previous lesson: stolbitsa.com/fistachka/elochka<br><br>
+
